@@ -17,4 +17,5 @@ setUpStatus();
 app.use(router);
 // app.use(ElementPlus);
 
+// 挂载
 app.mount("#app");
