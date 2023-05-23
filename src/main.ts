@@ -9,6 +9,7 @@ import "normalize.css";
 import "@/assets/css/index.less";
 import { setUpStatus } from "./store";
 123123123;
+123123123;
 const app = createApp(App);
 
 app.use(store);
